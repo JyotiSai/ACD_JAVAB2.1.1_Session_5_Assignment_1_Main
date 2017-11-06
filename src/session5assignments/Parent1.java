@@ -1,6 +1,6 @@
 package session5assignments; //Package declaration
 
-public class Parent1 extends Parent // Child class Parent1 extends Parent class Parent
+public class Parent1 extends Parent // Child class Parent1 inherits parent class Parent
 {
 	public void childrenCount() // Overrides and implements the abstract method childrenCount from abstract class Parent
 	{
