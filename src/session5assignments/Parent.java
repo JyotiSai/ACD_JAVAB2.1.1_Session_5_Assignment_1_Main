@@ -1,5 +1,4 @@
 package session5assignments; //Package Declaration
-
 /**
  * This class shows how to create an abstract class and abstract method
  *
