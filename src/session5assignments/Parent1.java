@@ -9,7 +9,7 @@ public class Parent1 extends Parent // Child class Parent1 inherits parent class
 
 	public static void main(String args[]) // This is the main method where execution begins
 	{
-		Parent object = new Parent1(); // new object of child class is created and assigned to reference object of Parent class
+		Parent object = new Parent1(); // new object of child class is created and assigned to reference object of class type Parent
 		object.childrenCount(); // childrenCount() method is called
 	
 	} // main method closed
